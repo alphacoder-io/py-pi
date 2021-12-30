@@ -11,6 +11,5 @@ def main():
     mp.dps = ndigits;
     mp.pretty = True
     print(f"here is your PI(π): {+pi}")
-    print("app ended")
 if __name__== "__main__":
   main()
